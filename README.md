@@ -25,7 +25,8 @@ server
 │ ├─app.ts
 │ └─index.ts
 ├─package.json
-└─tsconfig.json
+├─tsconfig.json
+└─jest.config.js
 package.json
 ```
 
