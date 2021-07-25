@@ -2,7 +2,7 @@
   "name": "boilerplate_ts",
   "version": "1.0.0",
   "scripts": {
-    "start": "concurrently \"npm run --prefix client start\" \"npm run --prefix server start\""
+    "start": "concurrently \"npm run --prefix client dev\" \"npm run --prefix server dev\""
   },
   "repository": "https://github.com/cothis/boilerplate_ts.git",
   "author": "cothis <minho1030@naver.com>",

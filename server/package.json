@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "NODE_ENV=development ts-node-dev --respawn --transpile-only src/index.ts",
+    "build": "tsc",
+    "start": "NODE_ENV=production pm2 start dist/index.js"
+  }
+}
