@@ -1,0 +1,8 @@
+{
+  "name": "boilerplate_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cothis/boilerplate_ts.git",
+  "author": "cothis <minho1030@naver.com>",
+  "license": "MIT"
+}
