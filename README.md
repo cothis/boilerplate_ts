@@ -12,8 +12,8 @@ client
 │ └─index.ts
 ├─package.json
 ├─tsconfig.json
-├─babel.config.js
 ├─jest.config.js
+├─babel.config.js
 ├─webpack.common.js
 ├─webpack.dev.js
 └─webpack.prod.js
