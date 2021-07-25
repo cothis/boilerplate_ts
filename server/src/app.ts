@@ -3,7 +3,6 @@ import express from 'express';
 import path from 'path';
 import cors from 'cors';
 import session from 'express-session';
-import { dirname } from 'path/posix';
 const NedbStore = require('nedb-session-store')(session);
 const app = express();
 
