@@ -4,6 +4,33 @@ Webpack, babel Client & Server BoilerPlate code for Typescript
 
 ---
 
+### 프로젝트 구조
+
+```
+client
+├─src
+│ └─index.ts
+├─package.json
+├─tsconfig.json
+├─babel.config.js
+├─jest.config.js
+├─webpack.common.js
+├─webpack.dev.js
+└─webpack.prod.js
+server
+├─public
+│ ├─bundle.js
+│ └─index.html
+├─src
+│ ├─app.ts
+│ └─index.ts
+├─package.json
+└─tsconfig.json
+package.json
+```
+
+---
+
 ## install
 
 root, client, server 각 폴더에서 yarn install 을 해야합니다. (yarn 은 npm 으로 대체 가능합니다.)
