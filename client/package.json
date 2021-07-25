@@ -5,5 +5,8 @@
   "scripts": {
     "dev": "NODE_ENV=development webpack-dev-server --config webpack.dev.js",
     "build": "NODE_ENV=production webpack --config webpack.prod.js"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
   }
 }

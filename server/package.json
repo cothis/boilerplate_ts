@@ -6,5 +6,8 @@
     "dev": "NODE_ENV=development ts-node-dev --respawn --transpile-only src/index.ts",
     "build": "tsc",
     "start": "NODE_ENV=production pm2 start dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
   }
 }
