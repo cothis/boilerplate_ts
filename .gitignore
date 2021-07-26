@@ -7,3 +7,5 @@ node_modules
 sessionStore.db
 
 dist/
+
+last-commit.info
