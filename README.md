@@ -2,8 +2,6 @@
 
 Webpack, babel Client & Server BoilerPlate code for Typescript
 
-test
-
 ---
 
 ### 프로젝트 구조
